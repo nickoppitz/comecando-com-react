@@ -9,6 +9,7 @@
   "author": "Selene",
   "license": "ISC",
   "dependencies": {
+    "react-dom": "^15.4.2",
     "react-dom": "^15.4.2"
   },
   "devDependencies": {

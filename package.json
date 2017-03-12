@@ -9,7 +9,7 @@
   "author": "Selene",
   "license": "ISC",
   "dependencies": {
-    "react-dom": "^15.4.2",
+    "axios": "^0.15.3",
     "react-dom": "^15.4.2"
   },
   "devDependencies": {
